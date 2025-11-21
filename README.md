@@ -13,30 +13,24 @@
 ## 🧑‍💻 About Me
 
 <table>
-  <tr>
-    <td width="100%">
       <ul>
         <li>🎓 3rd Information System Student at Hasanuddin University</li>
         <li>🌱 Currently learning and exploring new technologies</li>
         <li>💡 Interested in software development and UI/UX design</li>
         <li>🎯 Pronouns: she/her</li>
-        <li>😴 Hobby: WFC</li>
+        <li>☕ Hobby: WFC</li>
       </ul>
-    </td>
-    <td width="40%">
-      ## 🚀 Proyek Unggulan (Featured Projects)
-  * ### **[Sistem Reservasi Rumah Sakit]**
-      * Proyek capstone/tugas akhir yang dibangun menggunakan Laravel, MySQL, dan Tailwind CSS.**.
-      * Fitur Utama: 
-      1. *Role-based Access Control (RBAC) dengan 4 peran: Admin, Dokter, Pasien, dan Guest.*.
+</table>
+
+## 🚀 Featured Projects
+  * ### **Sistem Reservasi Rumah Sakit**
+    * Proyek capstone/tugas akhir yang dibangun menggunakan Laravel, MySQL, dan Tailwind CSS.
+    * Fitur Utama: 
+      1. *Role-based Access Control (RBAC) dengan 4 peran: Admin, Dokter, Pasien, dan Guest.*
       2. *Manajemen Janji Temu (Appointment Management) secara real-time, termasuk validasi jadwal dan cek ketersediaan dokter*
       3. *Manajemen Data Klinik seperti poli, dokter, obat, dan rekam medis.*
       4. *Dashboard dinamis untuk setiap role dengan tampilan data yang relevan (jadwal dokter, aktivitas pasien, statistik operasional admin)*
-      * 🔗 [**Lihat Repo**](https://github.com/indirafix03/RumahSakit) 
-    </td>
-  </tr>
-</table>
-
+      * 🔗 [**Jelajahi Repo**](https://github.com/indirafix03/RumahSakit) 
 ---
 
 ## 🙂 Connect with me
