@@ -10,19 +10,19 @@
   
 </div>
 
-## 🧑‍💻 About Me
+##  About Me
 
 <table>
       <ul>
-        <li>🎓 3rd Information System Student at Hasanuddin University</li>
-        <li>🌱 Currently learning and exploring new technologies</li>
-        <li>💡 Interested in software development and UI/UX design</li>
-        <li>🎯 Pronouns: she/her</li>
-        <li>☕ Hobby: WFC</li>
+        <li> 3rd Information System Student at Hasanuddin University</li>
+        <li> Currently learning and exploring new technologies</li>
+        <li> Interested in software development and UI/UX design</li>
+        <li> Pronouns: she/her</li>
+        <li> Hobby: WFC</li>
       </ul>
 </table>
 
-## 🚀 Featured Projects
+##  Featured Projects
   * ### **Sistem Reservasi Rumah Sakit**
     * Proyek capstone/tugas akhir yang dibangun menggunakan Laravel, MySQL, dan Tailwind CSS.
     * Fitur Utama: 
@@ -30,10 +30,10 @@
       2. *Manajemen Janji Temu (Appointment Management) secara real-time, termasuk validasi jadwal dan cek ketersediaan dokter*
       3. *Manajemen Data Klinik seperti poli, dokter, obat, dan rekam medis.*
       4. *Dashboard dinamis untuk setiap role dengan tampilan data yang relevan (jadwal dokter, aktivitas pasien, statistik operasional admin)*
-      * 🔗 [**Jelajahi Repo**](https://github.com/indirafix03/RumahSakit) 
+      *  [**Jelajahi Repo**](https://github.com/indirafix03/RumahSakit) 
 ---
 
-## 🙂 Connect with me
+##  Connect with me
 <div align="center">
   <span>
     <a href="mailto:indiraramayani14@gmail.com" target="_blank">
@@ -89,11 +89,11 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>📈 Profile Stats</h3>
+      <h3> Profile Stats</h3>
       <img
         src="https://github-readme-stats.vercel.app/api?username=indirafix03&show_icons=true&theme=nightowl&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=FFFFFF&hide_border=true"
         alt="GitHub Stats"
@@ -101,7 +101,7 @@
       />
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>💻 Most Used Languages</h3>
+      <h3> Most Used Languages</h3>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=indirafix03&layout=compact&theme=nightowl&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&hide_border=true"
         alt="Top Languages"
@@ -112,7 +112,7 @@
 
   <tr>
     <td width="50%" align="center" valign="top" style="padding-top: 20px;">
-      <h3>🔥 Streak Stats</h3>
+      <h3> Streak Stats</h3>
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=indirafix03&theme=nightowl&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A90E2&sideLabels=4A90E2&dates=FFFFFF&hide_border=true"
         alt="Streak Stats"
@@ -120,7 +120,7 @@
       />
     </td>
     <td width="50%" align="center" valign="top" style="padding-top: 20px;">
-      <h3>📊 Contribution Activity</h3>
+      <h3> Contribution Activity</h3>
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=indirafix03&theme=nightowl&area=true&hide_border=true"
         alt="Contribution Activity Graph"
@@ -131,10 +131,8 @@
 </table>
 
 ---
----
 
 <div align="center">
 
-Everything will be past
 
 </div>
