@@ -14,7 +14,7 @@
 
 <table>
       <ul>
-        <li> 3rd Information System Student at Hasanuddin University</li>
+        <li> 5rd Information System Student at Hasanuddin University</li>
         <li> Currently learning and exploring new technologies</li>
         <li> Interested in software development and UI/UX design</li>
         <li> Pronouns: she/her</li>
